@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labenclase</string>
+    <string name="retry">Reintentar\n</string>
+    <string name="getting_data">buscnado info\n</string>
+    <string name="error_fetching_data">error en info\n</string>
+    <string name="no_internect_connection">no hay internet\n</string>
+    <string name="crypto_list">Lista</string>
+</resources>
